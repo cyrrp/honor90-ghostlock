@@ -1,0 +1,3 @@
+__cfi_slowpath
+commit_creds
+kasan_flag_enabled
